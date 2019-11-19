@@ -93,7 +93,7 @@
 											"font": "Arial;13;0",
 											"left": 272,
 											"top": 368,
-											"width": 80.9072265625,
+											"width": 85.0966796875,
 											"height": 13,
 											"text": "(from Model2)"
 										},
@@ -358,7 +358,7 @@
 											"font": "Arial;13;0",
 											"left": 656,
 											"top": -32,
-											"width": 80.9072265625,
+											"width": 85.0966796875,
 											"height": 13,
 											"text": "(from Model2)"
 										},
@@ -469,7 +469,24 @@
 											"top": 267,
 											"width": 94.25,
 											"height": 13,
-											"text": "+재고수량",
+											"text": "+상품수량",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLAttributeView",
+											"_id": "AAAAAAFugjAm3QcUUN8=",
+											"_parent": {
+												"$ref": "AAAAAAFuFh2xRIZVXGE="
+											},
+											"model": {
+												"$ref": "AAAAAAFugjAmzwcRKKw="
+											},
+											"font": "Arial;13;0",
+											"left": 493,
+											"top": 282,
+											"width": 94.25,
+											"height": 13,
+											"text": "+상품번호",
 											"horizontalAlignment": 0
 										}
 									],
@@ -477,7 +494,7 @@
 									"left": 488,
 									"top": 217,
 									"width": 104.25,
-									"height": 68
+									"height": 83
 								},
 								{
 									"_type": "UMLOperationCompartmentView",
@@ -500,7 +517,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 493,
-											"top": 290,
+											"top": 305,
 											"width": 94.25,
 											"height": 13,
 											"text": "+상품등록()",
@@ -517,7 +534,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 493,
-											"top": 305,
+											"top": 320,
 											"width": 94.25,
 											"height": 13,
 											"text": "+상품수정()",
@@ -534,7 +551,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 493,
-											"top": 320,
+											"top": 335,
 											"width": 94.25,
 											"height": 13,
 											"text": "+상품삭제()",
@@ -543,7 +560,7 @@
 									],
 									"font": "Arial;13;0",
 									"left": 488,
-									"top": 285,
+									"top": 300,
 									"width": 104.25,
 									"height": 53
 								},
@@ -585,7 +602,7 @@
 							"left": 488,
 							"top": 192,
 							"width": 104.25,
-							"height": 146,
+							"height": 161,
 							"nameCompartment": {
 								"$ref": "AAAAAAFuFh2xRIZQwhY="
 							},
@@ -643,7 +660,7 @@
 											"font": "Arial;13;1",
 											"left": 173,
 											"top": 199,
-											"width": 81.25,
+											"width": 82.03076171875,
 											"height": 13,
 											"text": "매출현황"
 										},
@@ -657,7 +674,7 @@
 											"font": "Arial;13;0",
 											"left": 160,
 											"top": -448,
-											"width": 80.9072265625,
+											"width": 85.0966796875,
 											"height": 13,
 											"text": "(from Model2)"
 										},
@@ -678,7 +695,7 @@
 									"font": "Arial;13;0",
 									"left": 168,
 									"top": 192,
-									"width": 91.25,
+									"width": 92.03076171875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFuFiFy8oa0la0="
@@ -715,7 +732,7 @@
 											"font": "Arial;13;0",
 											"left": 173,
 											"top": 222,
-											"width": 81.25,
+											"width": 82.03076171875,
 											"height": 13,
 											"text": "+총매출액",
 											"horizontalAlignment": 0
@@ -732,7 +749,7 @@
 											"font": "Arial;13;0",
 											"left": 173,
 											"top": 237,
-											"width": 81.25,
+											"width": 82.03076171875,
 											"height": 13,
 											"text": "+결제날짜",
 											"horizontalAlignment": 0
@@ -749,7 +766,7 @@
 											"font": "Arial;13;0",
 											"left": 173,
 											"top": 252,
-											"width": 81.25,
+											"width": 82.03076171875,
 											"height": 13,
 											"text": "+주문번호",
 											"horizontalAlignment": 0
@@ -758,7 +775,7 @@
 									"font": "Arial;13;0",
 									"left": 168,
 									"top": 217,
-									"width": 91.25,
+									"width": 92.03076171875,
 									"height": 53
 								},
 								{
@@ -783,7 +800,7 @@
 											"font": "Arial;13;0",
 											"left": 173,
 											"top": 275,
-											"width": 81.25,
+											"width": 82.03076171875,
 											"height": 13,
 											"text": "+일매출조회()",
 											"horizontalAlignment": 0
@@ -800,7 +817,7 @@
 											"font": "Arial;13;0",
 											"left": 173,
 											"top": 290,
-											"width": 81.25,
+											"width": 82.03076171875,
 											"height": 13,
 											"text": "+월매출조회()",
 											"horizontalAlignment": 0
@@ -809,7 +826,7 @@
 									"font": "Arial;13;0",
 									"left": 168,
 									"top": 270,
-									"width": 91.25,
+									"width": 92.03076171875,
 									"height": 38
 								},
 								{
@@ -849,7 +866,7 @@
 							"containerChangeable": true,
 							"left": 168,
 							"top": 192,
-							"width": 91.25,
+							"width": 92.03076171875,
 							"height": 116,
 							"nameCompartment": {
 								"$ref": "AAAAAAFuFiFy8Yaz458="
@@ -922,7 +939,7 @@
 											"font": "Arial;13;0",
 											"left": 288,
 											"top": -144,
-											"width": 80.9072265625,
+											"width": 85.0966796875,
 											"height": 13,
 											"text": "(from Model2)"
 										},
@@ -1233,7 +1250,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 283,
+									"left": 284,
 									"top": 234,
 									"height": 13,
 									"alpha": 0.5235987755982988,
@@ -1254,7 +1271,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 286,
+									"left": 287,
 									"top": 220,
 									"height": 13,
 									"alpha": 0.7853981633974483,
@@ -1275,7 +1292,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 279,
+									"left": 280,
 									"top": 261,
 									"height": 13,
 									"alpha": -0.5235987755982988,
@@ -1381,7 +1398,7 @@
 							"tail": {
 								"$ref": "AAAAAAFuFiFy8Yay7Mo="
 							},
-							"points": "258:255;336:255",
+							"points": "259:255;336:255",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAFuFiPb6odjVJo="
@@ -1835,8 +1852,15 @@
 							"_parent": {
 								"$ref": "AAAAAAFuFh2xQ4ZNLyI="
 							},
-							"name": "재고수량",
-							"type": ""
+							"name": "상품수량"
+						},
+						{
+							"_type": "UMLAttribute",
+							"_id": "AAAAAAFugjAmzwcRKKw=",
+							"_parent": {
+								"$ref": "AAAAAAFuFh2xQ4ZNLyI="
+							},
+							"name": "상품번호"
 						}
 					],
 					"operations": [
